@@ -1056,6 +1056,8 @@
     <string name="status_bar_notif_count_summary">Показывать число новых уведомлений в строке состояния</string>
     <!-- Weather -->
     <string name="weather_unit">Единица измерения температуры</string>
+    <string name="weather_unit_metric" translatable="false">Градусы Цельсия</string>
+    <string name="weather_unit_imperial" translatable="false">Градусы Фаренгейта</string>
     <!-- Statusbar ticker -->
     <string name="status_bar_ticker_title">Бегущая строка</string>
     <string name="status_bar_show_ticker_title">Бегущая строка</string>
@@ -1145,4 +1147,6 @@
     <!-- ScreenShot Shortcut -->
     <string name="screen_shot_shortcut">Скриншот</string>
     <string name="screen_shot_shortcut_summary">Питание + громкость вверх делают снимок экрана при нажатии</string>
+    <string name="lockscreen_clock_selection_text">Текст (Android Q)</string>
+
 </resources>
