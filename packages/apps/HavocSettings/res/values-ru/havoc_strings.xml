@@ -1149,4 +1149,8 @@
     <string name="screen_shot_shortcut_summary">Питание + громкость вверх делают снимок экрана при нажатии</string>
     <string name="lockscreen_clock_selection_text">Текст (Android Q)</string>
 
+    <string name="lockscreen_solid_units_count_title">Количество линий</string>
+    <string name="lockscreen_solid_fudge_factor_title">Чувствительность</string>
+    <string name="lockscreen_solid_units_opacity_title">Непрозрачнисть линий</string>
+
 </resources>

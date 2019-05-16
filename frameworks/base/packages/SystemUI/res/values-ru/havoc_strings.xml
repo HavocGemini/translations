@@ -50,7 +50,7 @@
     <string name="force_stop_dlg_title">Закрыть принудительно?</string>
     <string name="force_stop_dlg_text">Принудительное закрытие приложения может отразиться на его функциональности.</string>
     <string name="dlg_ok">Ок</string>
-    <string name="kill">Принудительное закрытие приложения</string>
+    <string name="kill">Закрыть принудительно</string>
     <string name="quick_settings_reboot_recovery_label">Режим восстановления</string>
 
     <!-- Reader mode QS tile -->
