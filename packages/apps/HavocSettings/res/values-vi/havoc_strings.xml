@@ -292,7 +292,7 @@
     <string name="action_entry_select_app">Chọn ứng dụng</string>
     <string name="action_entry_custom_action">Chọn hành động tùy chỉnh</string>
     <string name="hardware_keys_home_key_title">Nút Home</string>
-    <string name="hardware_keys_menu_key_title">Nút Menu</string>
+    <string name="hardware_keys_menu_key_title">Cảm biến dấu vân tay</string>
     <string name="hardware_keys_assist_key_title">Nút Tìm kiếm</string>
     <string name="hardware_keys_appswitch_key_title">Nút đa nhiệm</string>
     <string name="hardware_keys_back_key_title">Nút Back</string>

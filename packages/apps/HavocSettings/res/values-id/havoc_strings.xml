@@ -292,7 +292,7 @@
     <string name="action_entry_select_app">Pilih aplikasi</string>
     <string name="action_entry_custom_action">Pilih aksi kustom</string>
     <string name="hardware_keys_home_key_title">Tombol Beranda</string>
-    <string name="hardware_keys_menu_key_title">Tombol Menu</string>
+    <string name="hardware_keys_menu_key_title">Sensor sidik jari</string>
     <string name="hardware_keys_assist_key_title">Tombol Cari</string>
     <string name="hardware_keys_appswitch_key_title">Tombol Ikhtisar</string>
     <string name="hardware_keys_back_key_title">Tombol Kembali</string>

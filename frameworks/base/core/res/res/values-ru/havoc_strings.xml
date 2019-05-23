@@ -130,7 +130,6 @@
 
 
     <!-- LiveDisplay strings -->
-    <string name="live_display_title" translatable="false">LiveDisplay</string>
     <string name="live_display_auto">Автоматический</string>
     <string name="live_display_auto_summary">Автоматическая настройка цветовой температуры экрана после захода и восхода солнца</string>
     <string name="live_display_off">Отключен</string>

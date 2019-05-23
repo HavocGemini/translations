@@ -292,7 +292,7 @@
     <string name="action_entry_select_app">Вибрати програму</string>
     <string name="action_entry_custom_action">Виберіть користувацьку дію</string>
     <string name="hardware_keys_home_key_title">Клавіша \"Додому\"</string>
-    <string name="hardware_keys_menu_key_title">Клавіша \"Меню\"</string>
+    <string name="hardware_keys_menu_key_title">Сканер відбитків пальців</string>
     <string name="hardware_keys_assist_key_title">Клавіша \"Пошук\"</string>
     <string name="hardware_keys_appswitch_key_title">Клавіша \"Огляд\"</string>
     <string name="hardware_keys_back_key_title">Клавіша \"Назад\"</string>

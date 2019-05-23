@@ -292,7 +292,7 @@
     <string name="action_entry_select_app">Selecione Aplicação</string>
     <string name="action_entry_custom_action">Selecionar ação personalizada</string>
     <string name="hardware_keys_home_key_title">Botão home</string>
-    <string name="hardware_keys_menu_key_title">Botão menu</string>
+    <string name="hardware_keys_menu_key_title">Sensor de impressão digital</string>
     <string name="hardware_keys_assist_key_title">Botão de pesquisa</string>
     <string name="hardware_keys_appswitch_key_title">Botão de visão geral</string>
     <string name="hardware_keys_back_key_title">Botão de voltar</string>
