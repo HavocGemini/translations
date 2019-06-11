@@ -334,11 +334,7 @@
     <!-- QuickSettings haptic feedback -->
     <string name="quick_settings_vibrate_title">Вибрация при касании</string>
     <string name="quick_settings_vibrate_summary">Вибрировать при касании плитки быстрых настроек</string>
-    <!-- Disable OS on lockscreen -->
-    <string name="block_on_secure_keyguard_title">Отключить быстрые настройки</string>
-    <string name="block_on_secure_keyguard_summary">Отключить быстрые настройки на экране блокировки</string>
     <!-- On-The-Go -->
-    <string name="onthego_title">Режим \"На ходу\"</string>
     <string name="global_actions_onthego_title">Режим \"На ходу\"</string>
     <string name="onthego_alpha_title">Прозрачность режима \"На ходу\"</string>
     <string name="onthego_alpha_summary">Степень прозрачности режима \"На ходу\"</string>
@@ -718,9 +714,6 @@
     <string name="burn_in_protection_title">Защита от выгорания</string>
     <string name="burn_in_protection_summary">Передвигать иконки в строке состояния для предотвращения выгорания экрана</string>
     <string name="burn_in_protection_interval_title">Интервал смещения</string>
-    <!-- Hide statusbar on lockscreen -->
-    <string name="lockscreen_hide_status_bar_title">Скрыть строку состояния на экране блокировки</string>
-    <string name="lockscreen_hide_status_bar_summary">Если включено, строка состояния будет скрыта на экране блокировки</string>
     <!-- Doze settings editor -->
     <string name="advanced_doze_settings">Дополнительные настройки спящего режима</string>
     <string name="doze_settings_title">Настройки спящего режима</string>
@@ -1018,12 +1011,7 @@
     <string name="animation15">Быстрый переворот</string>
     <string name="reset_message">Сбросить все параметры назначения по умолчанию?</string>
     <!-- Hide Lockscreen shortcuts on secure Lockscreen -->
-    <string name="lockscreen_hide_shortcuts_title">Скрыть нижние ярлыки</string>
-    <string name="lockscreen_hide_shortcuts_summary">Скрыть левый и правый ярлыки на экране блокировки</string>
-    <string name="hide_lockscreen_indicator_display_title">Скрыть текст состояния снизу</string>
-    <string name="hide_lockscreen_indicator_display_summary">Скрыть информацию о зарядке и подсказки для разблокировки</string>
-    <string name="hide_lockscreen_icon_title">Скрыть значок блокировки экрана</string>
-    <string name="hide_lockscreen_icon_summary">Изменить видимость значка блокировки</string>
+    <string name="hide_lockscreen_indicator_display_summary">Показывать информацию о зарядке и подсказки для разблокировки</string>
     <!-- QS tile styles -->
     <string name="qs_tile_style_title">Стиль плиток быстрых настроек</string>
     <string name="qstile_default">По умолчанию</string>
@@ -1152,4 +1140,12 @@
     <string name="lockscreen_solid_fudge_factor_title">Чувствительность</string>
     <string name="lockscreen_solid_units_opacity_title">Непрозрачнисть линий</string>
 
+    <string name="lock_screen_weather_title">Показывать погоду</string>
+    <string name="lock_screen_weather_summary">Показать текущую информацию о погоде на экране блокировки</string>
+
+    <string name="lockscreen_charging_animation_title">Анимация зарядки</string>
+    <string name="lockscreen_charging_animation_summary">Показывать анимацию при подключении зарядного устройства</string>
+
+    <string name="charging_animation_title">Анимация зарядки</string>
+    <string name="charging_animation_summary">Показывать анимацию при подключении зарядного устройства</string>
 </resources>
