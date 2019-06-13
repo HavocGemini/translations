@@ -349,4 +349,7 @@
     <!-- Battery estimates -->
     <string name="battery_estimates_title">Оценка батареи в QS</string>
     <string name="battery_estimates_summary">Показывать приблизительное время автономной работы в панели QS</string>
+    <!-- Battery temp -->
+    <string name="battery_temp_title">Температура батареи</string>
+    <!--string name="battery_temp_summary">Tap to switch scale</string-->
 </resources>
