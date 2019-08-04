@@ -230,8 +230,8 @@
     <string name="title_animation_no_override">Предотвращение переопределения приложением</string>
     <string name="summary_animation_no_override">Предотвратить переопределение переходов приложением</string>
     <string name="animation_duration_default">По умолчанию</string>
-    <string name="disable_transition_animations_title">Отключить анимацию переходов</string>
-    <string name="disable_transition_animations_summary">Принудительное отключение анимации переходов</string>
+    <string name="disable_transition_animations_title">Включить анимацию переходов</string>
+    <string name="disable_transition_animations_summary">Принудительное включение анимации переходов</string>
     <!-- Tiles animation style  -->
     <string name="qs_tile_animation_category">Анимации плиток быстрых настроек</string>
     <string name="qs_tile_animation_style_title">Стиль анимации плиток быстрых настроек</string>

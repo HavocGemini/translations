@@ -352,4 +352,8 @@
     <!-- Battery temp -->
     <string name="battery_temp_title">Температура батареи</string>
     <!--string name="battery_temp_summary">Tap to switch scale</string-->
+    <string name="sim_enabler_summary"><xliff:g id="displayName">%1$s</xliff:g><xliff:g id="status" example="disabled">%2$s</xliff:g></string>
+    <string name="sim_enabled">активна</string>
+    <string name="sim_disabled">отключена</string>
+    <string name="sim_missing">отсутствует или не опознана</string>
 </resources>
