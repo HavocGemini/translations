@@ -23,7 +23,7 @@
     <string name="reboot_to_bootloader_title">লোডার</string>
     <string name="reboot_to_bootloader_message">বুটলোডারে বুট করুন</string>
 
-    <string name="animation_slide_right_no_fade">Сдвиг вправо (без затухания)</string>
+    <string name="animation_slide_right_no_fade">ডানদিকে শিফট করুন (মনোযোগ ছাড়াই)</string>
     <string name="animation_grow_shrink">Увеличение (вверх)</string>
     <string name="animation_grow_shrink_bottom">Увеличение (вниз)</string>
     <string name="animation_grow_shrink_left">Увеличение (влево)</string>
